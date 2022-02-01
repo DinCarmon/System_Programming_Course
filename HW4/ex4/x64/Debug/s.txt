@@ -1,0 +1,3 @@
+NEW_USER_ACCEPTED:1
+NEW_USER_ACCEPTED:2
+GAME_ENDED:you; ;because; ;the; ;other; ;player; ;exited

@@ -1,0 +1,28 @@
+connected to server on 127.0.0.1:4000
+Received from server: Welcome to this server!
+Enter username: 
+Sent to server: didi
+Received from server: NEW_USER_ACCEPTED:2
+Received from server: GAME_STARTED
+Received from server: BOARD_VIEW:000000000000000000000000000000000000000000
+Received from server: TURN_SWITCH:din
+Received from server: BOARD_VIEW:000000000000000000000000000000000000000100
+Sent to server: PLAY_REQUEST:5
+Sent to server: PLAY_REQUEST:5
+Received from server: TURN_SWITCH:didi
+Received from server: PLAY_ACCEPTED
+Received from server: BOARD_VIEW:000000000000000000000000000000000000000120
+Sent to server: PLAY_REQUEST:5
+Received from server: TURN_SWITCH:din
+Received from server: BOARD_VIEW:000000000000000000000000000000001000000120
+Received from server: TURN_SWITCH:didi
+Received from server: PLAY_ACCEPTED
+Received from server: BOARD_VIEW:000000000000000000000000000000001200000120
+Received from server: TURN_SWITCH:din
+Received from server: BOARD_VIEW:000000000000000000000000010000001200000120
+Received from server: TURN_SWITCH:didi
+Received from server: PLAY_ACCEPTED
+Received from server: BOARD_VIEW:000000000000000000000000012000001200000120
+Received from server: TURN_SWITCH:din
+Received from server: BOARD_VIEW:000000000000000000100000012000001200000120
+Received from server: GAME_ENDED:din

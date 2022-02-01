@@ -1,0 +1,14 @@
+connected to server on 127.0.0.1:4000
+Received from server: Welcome to this server!
+Enter username: 
+Sent to server: din
+Received from server: NEW_USER_ACCEPTED:1
+Received from server: 
+Received from server: GAME_STARTED
+Received from server: BOARD_VIEW:000000000000000000000000000000000000000000
+Received from server: TURN_SWITCH:din
+Sent to server: PLAY_REQUEST:4
+Received from server: PLAY_ACCEPTED
+Received from server: BOARD_VIEW:000000000000000000000000000000000000000100
+Received from server: TURN_SWITCH:didi
+Received from server: GAME_ENDED:you; ;because; ;the; ;other; ;player; ;exited

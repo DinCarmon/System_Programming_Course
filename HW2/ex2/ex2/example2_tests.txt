@@ -1,0 +1,2 @@
+tests\test1.exe hello expected_resultsA.txt
+tests\test3.exe expected_resultsB.txt

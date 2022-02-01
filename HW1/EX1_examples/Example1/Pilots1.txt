@@ -1,0 +1,11 @@
+Avi Ron, 737, 17, Captain
+Dani Niv, 747, 1, Captain
+Arie Machluf, 787, 32, Captain
+Ariel Cohen, 787, 10, First Officer
+Dana Maoz, 747, 8, Captain
+Moti Sasson, 737, 12, First Officer
+Michal Rahamim, 737, 21, First Officer
+Dan Turi, 737, 18, First Officer
+Adi Barak, 737, 20, Captain
+Ido Rozenberg, 747, 16, First Officer
+Mohamad Tibi, 787, 8, First Officer
